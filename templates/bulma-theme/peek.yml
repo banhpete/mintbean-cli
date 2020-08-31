@@ -3,5 +3,3 @@ main:
   type: static
   path: dist
   spa: true
-
-  
